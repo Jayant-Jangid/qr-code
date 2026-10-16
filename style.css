@@ -1,0 +1,19 @@
+/* Base CSS */
+body {
+  font-family: Arial, sans-serif;
+  background: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+.card {
+  background: white;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+.qr-image {
+  width: 100%;
+}
