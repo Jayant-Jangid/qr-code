@@ -11,7 +11,7 @@ body {
 .card {
   background: white;
   padding: 1rem;
-  border: 1px solid #ccc;
+  border: 3px solid #ccc;
   text-align: center;
 }
 .qr-image {
