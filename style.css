@@ -8,12 +8,12 @@ body {
   justify-content: center;
   min-height: 100vh;
   margin: 0;
-  padding: 1rem;
+  padding: 1.5rem;
   overflow-x: hidden;
 }
 .card {
   background: white;
-  padding: 1rem;
+  padding: 1.5rem;
   border: 3px solid #ccc;
   text-align: center;
   max-width: 320px;
