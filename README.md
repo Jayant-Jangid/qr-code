@@ -6,9 +6,13 @@ A simple QR code component built as part of a Frontend Mentor challenge.
 
 This project is a responsive QR code card component. Users should be able to see a centered card with a QR code image, a heading, and a short description.
 
-## Screenshot
+## Screenshots
 
-![Desktop](./design/desktop-design.jpg)
+### Desktop
+![Desktop Design](./design/desktop-design.jpg)
+
+### Mobile
+![Mobile Design](./design/mobile-design.jpg)
 
 ## Built With
 
@@ -20,6 +24,7 @@ This project is a responsive QR code card component. Users should be able to see
 
 - CSS Flexbox centering
 - Responsive design with media queries
+- How to use custom fonts from Google Fonts
 
 ## Author
 
